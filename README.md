@@ -2,7 +2,7 @@ The Creed of Software Engineering
 =================================
 by: Daft Labs
 
-IN NO ORDER:
+in no particular order:
 
 - [focus](http://www.commitstrip.com/wp-content/uploads/2014/11/Strip-Side-project-650-finalenglish.jpg)
 - [ideal stack](http://stackexchange.com/performance)
